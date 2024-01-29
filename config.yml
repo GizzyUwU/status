@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: GizStatus
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -158,21 +158,18 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
+    - name: Giztea
+      description: Gitea but Gizzy
       category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
+      link: https://git.furgiz.eu.org
+    - name: It-Tools
+      description: It-Tools
       category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      link: https://it.furgiz.eu.org
+    - name: Excalidraw
+      description: Excalidraw
       category: Uncategorized
-
+      link: https://excal.furgiz.eu.org
   # What date format to use?
   #
   # Hugo formatting docs:
