@@ -166,6 +166,14 @@ params:
       description: Excalidraw
       category: Uncategorized
       link: https://excal.furgiz.eu.org
+    - name: Memos
+      description: Memos
+      category: Uncategorized
+      link: https://memos.furgiz.eu.org
+    - name: PenPot
+      description: PenPot
+      category: Uncategorized
+      link: https://penpot.furgiz.eu.org
   # What date format to use?
   #
   # Hugo formatting docs:
